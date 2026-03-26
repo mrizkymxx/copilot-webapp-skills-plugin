@@ -1,0 +1,1 @@
+/Users/rizky/Documents/claude-skills/engineering-team/senior-fullstack/SKILL.md

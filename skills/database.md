@@ -1,0 +1,1 @@
+/Users/rizky/Documents/claude-skills/engineering/database-designer/SKILL.md

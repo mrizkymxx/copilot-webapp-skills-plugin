@@ -1,0 +1,63 @@
+{
+  "name": "webapp-skills",
+  "version": "1.0.0",
+  "description": "Webapp Development Skills for GitHub Copilot CLI - Frontend, Backend, Fullstack, DevOps skills from claude-skills repository",
+  "author": "GitHub Copilot CLI User",
+  "license": "MIT",
+  "skills": [
+    {
+      "id": "frontend",
+      "name": "Senior Frontend Engineer",
+      "description": "React, Vue, Angular, TypeScript, Tailwind CSS development",
+      "path": "skills/frontend.md"
+    },
+    {
+      "id": "backend",
+      "name": "Senior Backend Engineer",
+      "description": "Node.js, Express, Python, APIs, Database development",
+      "path": "skills/backend.md"
+    },
+    {
+      "id": "fullstack",
+      "name": "Senior Fullstack Engineer",
+      "description": "Full web application development",
+      "path": "skills/fullstack.md"
+    },
+    {
+      "id": "devops",
+      "name": "Senior DevOps Engineer",
+      "description": "CI/CD, deployment, infrastructure automation",
+      "path": "skills/devops.md"
+    },
+    {
+      "id": "api-design",
+      "name": "API Design Reviewer",
+      "description": "REST, GraphQL, API architecture best practices",
+      "path": "skills/api-design.md"
+    },
+    {
+      "id": "database",
+      "name": "Database Designer",
+      "description": "Schema design, migrations, query optimization",
+      "path": "skills/database.md"
+    },
+    {
+      "id": "testing",
+      "name": "Testing & QA Engineer",
+      "description": "Unit, integration, e2e testing strategies",
+      "path": "skills/testing.md"
+    },
+    {
+      "id": "docker",
+      "name": "Docker Development",
+      "description": "Containerization, Docker Compose, production setups",
+      "path": "skills/docker.md"
+    },
+    {
+      "id": "cicd",
+      "name": "CI/CD Pipeline Builder",
+      "description": "GitHub Actions, automated testing, deployment pipelines",
+      "path": "skills/cicd.md"
+    }
+  ]
+}
